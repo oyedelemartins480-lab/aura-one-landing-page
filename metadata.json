@@ -1,0 +1,6 @@
+{
+  "name": "3D Product Showcase",
+  "description": "An interactive 3D product showcase page featuring scroll-driven camera sequences, real-time material and variant customizer, studio lighting, and smooth interactive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
